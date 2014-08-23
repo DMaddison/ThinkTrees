@@ -23,7 +23,7 @@ public class RandomlyRotate extends RndTreeModifier {
 	}
 	
    	public boolean isPrerelease(){
-   		return true;
+   		return false;
    	}
 	/*.................................................................................................................*/
    	 public void modifyTree(Tree tree, MesquiteTree modified, RandomBetween rng){
